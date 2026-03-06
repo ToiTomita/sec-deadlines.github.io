@@ -1608,3 +1608,12 @@
   date: May 21, 2026
   place: San Francisco, California, USA
   tags: [SEC, PRIV, SHOP]
+
+- name: IWSEC
+  description: The 21st International Workshop on Security
+  year: 2026
+  link: https://www.iwsec.org/2026/index.html
+  deadline: ["2026-06-08 23:59"]  # must be a list
+  date: November 24-26
+  place: Tokyo, Japan
+  tags: [SEC, PRIV, CRYPTO, SHOP]
